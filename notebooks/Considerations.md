@@ -22,3 +22,6 @@ P3: Alert forecasting
 
 
 
+EDA:
+
+- Checking/Querying what happened that made notifications to be opened by users (after merging dfs)
