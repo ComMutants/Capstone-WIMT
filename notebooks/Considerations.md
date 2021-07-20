@@ -53,5 +53,14 @@ OUTPUT Metric: Scale of importance (matrix of weight between cause, effect, agen
 
 P3: Alert forecasting
 
+#Remember the story of Paco the farmer ("00205").
+BULLET IDEA: Stack users on a chat for the incident follow-up.
 
-#Remember the story of Paco the farmer ("00205")
+
+QUESTIONS FOR ELLEN
+
+1. Regarding data cleaning, around 28000 rows could not be linked (alerts with notifications).
+2. Could we get the name of the agencies for each code?
+3. Problems with the app.
+
+https://www.google.de/search?q=plotting+time+series+density+plot&tbm=isch&ved=2ahUKEwiYtq_3tO_xAhUUSOUKHZoOCRQQ2-cCegQIABAA&oq=plotting+time+series+density+plot&gs_lcp=CgNpbWcQAzoECAAQEzoGCAAQHhATULEnWMtHYPVIaANwAHgAgAFAiAGYB5IBAjE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=ZpX1YJjrIJSQlQeanaSgAQ&bih=679&biw=1314
