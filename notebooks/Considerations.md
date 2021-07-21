@@ -64,3 +64,6 @@ QUESTIONS FOR ELLEN
 3. Problems with the app.
 
 https://www.google.de/search?q=plotting+time+series+density+plot&tbm=isch&ved=2ahUKEwiYtq_3tO_xAhUUSOUKHZoOCRQQ2-cCegQIABAA&oq=plotting+time+series+density+plot&gs_lcp=CgNpbWcQAzoECAAQEzoGCAAQHhATULEnWMtHYPVIaANwAHgAgAFAiAGYB5IBAjE2mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=ZpX1YJjrIJSQlQeanaSgAQ&bih=679&biw=1314
+
+
+Idea: NLP for extracting the lines, then add it coordinates
