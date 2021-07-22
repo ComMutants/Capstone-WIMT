@@ -1,0 +1,10 @@
+Base model: Decision Tree
+ Predicted values:
+ [0 0 0 ... 1 1 1]
+ Confusion Matrix:
+ [[102539  22791]
+ [ 19089  36604]]
+ Balanced Accuracy:
+ 0.7376990259871912 
+ Model: DecisionTreeClassifier(class_weight='balanced', max_depth=50,
+                       max_leaf_nodes=500, min_samples_leaf=50)
