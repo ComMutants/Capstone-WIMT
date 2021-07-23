@@ -3,7 +3,6 @@ import pandas as pd
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.linear_model import LinearRegression
-import pickle
 import warnings
 import mlflow
 from mlflow.sklearn import save_model  # , log_model
