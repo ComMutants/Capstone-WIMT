@@ -1,0 +1,32 @@
+{
+    "import_lines": [
+            "from sklearn.tree import DecisionTreeClassifier",
+            "from sklearn.metrics import balanced_accuracy_score, confusion_matrix,classification_report"
+    ],
+    "model_name": "Decision_Tree",
+    "model_line": "DecisionTreeClassifier(class_weight="balanced")",
+    "params": "{'max_leaf_nodes':[10,20,50,100,500],
+    'criterion': ['gini', 'entropy'
+    ],
+    'max_depth': [
+            2,
+            5,
+            10,
+            50
+    ],
+    'min_samples_leaf': [
+            50,
+            200,
+            500,
+            1000
+    ]
+}",
+"cv": "RepeatedStratifiedKFold(n_splits=5, n_repeats=3, random_state=1)",
+"tags": "Base_model","No Location or Description"
+"metric_names": [
+    "Balanced accuracy"
+],
+"metric_lines": [
+    "mlflow.log_metric(prefix + "-" + "Balanced Accuracy", accuracy)"
+]
+}
