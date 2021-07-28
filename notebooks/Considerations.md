@@ -67,3 +67,21 @@ https://www.google.de/search?q=plotting+time+series+density+plot&tbm=isch&ved=2a
 
 
 Idea: NLP for extracting the lines, then add it coordinates
+
+
+other_params={"num_boost_round":50000000,
+              "early_stopping_rounds":50,
+              "verbose_eval":1000,
+}
+lgbm_params = {
+    "bagging_fraction": 0.8,
+    "bagging_freq": 2,
+    "boosting_type": "gbdt",
+    "feature_fraction": 0.8,
+    "learning_rate": 0.01,
+    "max_depth": 8,
+    "num_threads": 16,
+    "objective": "regression",
+    "metric": "rmse",
+    "seed": 2020,
+}
