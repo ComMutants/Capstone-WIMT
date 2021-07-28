@@ -7,4 +7,22 @@ Base model: Decision Tree
  Balanced Accuracy:
  0.7376990259871912 
  Model: DecisionTreeClassifier(class_weight='balanced', max_depth=50,
-                       max_leaf_nodes=500, min_samples_leaf=50)
+                       max_leaf_nodes=500, min_samples_leaf=50)Base model: Decision Tree
+ Predicted values:
+ [0 0 0 ... 1 0 0]
+ Confusion Matrix:
+ [[128623  11892]
+ [  4014  36494]]
+ Balanced Accuracy:
+ 0.9081384642629959 
+ Model: DecisionTreeClassifier(class_weight='balanced', max_depth=50,
+                       max_leaf_nodes=500, min_samples_leaf=50)Base model: Decision Tree
+ Predicted values:
+ [0 0 0 ... 1 0 0]
+ Confusion Matrix:
+ [[138223   2292]
+ [  9022  31486]]
+ Balanced Accuracy:
+ 0.8804835682164414 
+ Model: DecisionTreeClassifier(criterion='entropy', max_depth=50, max_leaf_nodes=500,
+                       min_samples_leaf=50)
