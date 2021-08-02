@@ -8,6 +8,7 @@ The notebooks on this project are the following:
 - Data_Cleaning: This notebook include the data cleaning, feature engineering, NLP processing of our project. Exports the two dataframes that are going to be used for EDA and for modeling.
 - EDA_Capstone: Exploratory data analysis of our project, focusing on user identification and classification, and to get a deeper understanding on the notifications.
 - Basemodel_Decision_Tree: Basemodel used for classification. Plots decision tree, for a basic concept of features affecting the model.
+- Random forest classifier: Random forest model, with basic weight estimation. Discarded, as got worse results than XGBoost.
 - Model_XGBoost: Final model used for classification. Includes cross validation, hyperparameter tuning, and features' importance evaluation.
 ## Setup
 
